@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/sushantgwr87/sushantgwr87/main/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
 
-## Hello there <img src="https://stickers.giphy.com/stickers/hello-wave-hand/gM5qFksULw54NMWyry/giphy.gif" width="40" height="40" />
+## Hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40" height="40" />
 
 I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
@@ -33,8 +33,8 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="react" width="25" height="25" /> My Github Stat's
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&show_icons=true&theme=midnight-purple" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&show_icons=true&theme=midnight-purple" />
 </p>
 
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&theme=react-dark)](https://github.com/sushantgwr87)
