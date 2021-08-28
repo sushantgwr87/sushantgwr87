@@ -10,16 +10,16 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 <a href="https://github.com/sushantgwr87/Inked-Diary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=algolia" />
 </a>
-
-<br />
 &nbsp;&nbsp;&nbsp;&nbsp;
+<br />
+
 - A website to show 🕐Clock-Time in digital format with flip animation and a ⏲️Timer with dial animation.
 <a href="https://github.com/sushantgwr87/Clock-Timer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=algolia" />
 </a>
-
-<br />
 &nbsp;&nbsp;&nbsp;&nbsp;
+<br />
+
 - My Portfolio😎 
 <a href="https://github.com/sushantgwr87/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=algolia" />
