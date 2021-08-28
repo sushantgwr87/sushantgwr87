@@ -1,10 +1,10 @@
-[![Header](https://github.com/sushantgwr87/sushantgwr87/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
+[![Header](https://raw.githubusercontent.com/sushantgwr87/sushantgwr87/main/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
 
 ### Hi there 👋
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&show_icons=true&theme=midnight-purple" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&layout=compact&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=midnight-purple" />
 </p>
 <a href="https://github.com/sushantgwr87/Inked-Diary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=midnight-purple" />
