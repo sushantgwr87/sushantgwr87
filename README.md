@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/sushantgwr87/sushantgwr87/main/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
 
-## Hello there <img src="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry/giphy.gif" width="40" height="40" />
+## Hello there <img src="https://stickers.giphy.com/stickers/hello-wave-hand/gM5qFksULw54NMWyry/giphy.gif" width="40" height="40" />
 
 I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
