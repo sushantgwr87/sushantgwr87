@@ -1,31 +1,31 @@
 [![Header](https://raw.githubusercontent.com/sushantgwr87/sushantgwr87/main/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
 
-## Hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40" height="40" />
+# Hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40" height="40" />
 
 I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
-### Some of my Projects
+## Some of my Projects
 
 - My Blog 📜🖋️ Inked Diary, made using <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React.js and database hosted on a Json server.
 <a href="https://github.com/sushantgwr87/Inked-Diary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=react-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=react" />
 </a>
 
-<hr>
+<br>
 
 - A website to show 🕐Clock-Time in digital format with flip animation and a ⏲️Timer with dial animation.
 <a href="https://github.com/sushantgwr87/Clock-Timer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=react-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=react" />
 </a>
 
-<hr>
+<br>
 
 - My Portfolio😎 
 <a href="https://github.com/sushantgwr87/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=react-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=react" />
 </a>
 
-### ⚡ Technologies
+## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-202020?style=flat-square&logo=Node.js)
