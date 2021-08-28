@@ -8,23 +8,23 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 
 - My Blog 📜🖋️ Inked Diary, made using <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React.js and database hosted on a Json server.
 <a href="https://github.com/sushantgwr87/Inked-Diary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=algolia" />
 </a>
 
 <br />
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 - A website to show 🕐Clock-Time in digital format with flip animation and a ⏲️Timer with dial animation.
 <a href="https://github.com/sushantgwr87/Clock-Timer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=algolia" />
 </a>
 
 <br />
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 - My Portfolio😎 
 <a href="https://github.com/sushantgwr87/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=algolia" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
 
 ## ⚡ Technologies
@@ -41,9 +41,9 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 ## 🚀 My Github Stat's
 
 <p align="left">
-  <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=github_dark" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&show_icons=true&theme=midnight-purple" />
+  <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=algolia" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&show_icons=true&theme=algolia" />
 </p>
 
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&theme=react-dark)](https://github.com/sushantgwr87)
