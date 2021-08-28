@@ -8,24 +8,25 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 
 - My Blog 📜🖋️ Inked Diary, made using <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React.js and database hosted on a Json server.
 <a href="https://github.com/sushantgwr87/Inked-Diary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=react" />
 </a>
 
 <br />
 
 - A website to show 🕐Clock-Time in digital format with flip animation and a ⏲️Timer with dial animation.
 <a href="https://github.com/sushantgwr87/Clock-Timer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=tokiyonight" />
 </a>
 
 <br />
 
 - My Portfolio😎 
 <a href="https://github.com/sushantgwr87/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=radical" />
 </a>
 
 <br />
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat-square&logo=javascript)
@@ -40,7 +41,7 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 ## 🚀 My Github Stat's
 
 <p align="left">
-  <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=midnight-purple" />
+  <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=github-dark" />
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&show_icons=true&theme=midnight-purple" />
 </p>
