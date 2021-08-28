@@ -11,20 +11,21 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=react" />
 </a>
 
-<br>
+<br />
 
 - A website to show 🕐Clock-Time in digital format with flip animation and a ⏲️Timer with dial animation.
 <a href="https://github.com/sushantgwr87/Clock-Timer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=react" />
 </a>
 
-<br>
+<br />
 
 - My Portfolio😎 
 <a href="https://github.com/sushantgwr87/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=react" />
 </a>
 
+<br />
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat-square&logo=javascript)
@@ -36,9 +37,11 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 🚀 My Github Stat's
+## 🚀 My Github Stat's
+
 <p align="left">
   <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=midnight-purple" />
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&show_icons=true&theme=midnight-purple" />
 </p>
 
