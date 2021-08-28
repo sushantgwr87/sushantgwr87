@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/sushantgwr87/sushantgwr87/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
+[![Header](https://github.com/sushantgwr87/sushantgwr87/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
 
 ### Hi there 👋
 
