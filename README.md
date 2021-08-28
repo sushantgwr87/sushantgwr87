@@ -15,3 +15,6 @@
 <a href="https://github.com/sushantgwr87/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=midnight-purple" />
 </a>
+
+
+![Technologies & Tools](https://img.shields.io/badge/<Code>-<JavaScript>-informational?style=flat&logo=<javascript>&logoColor=yellow&color=2bbc8a)
