@@ -31,9 +31,9 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="react" width="25" height="25" /> My Github Stat's
+### 🚀 My Github Stat's
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=midnight-purple" />
+  <img align="center" margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=midnight-purple" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&show_icons=true&theme=midnight-purple" />
 </p>
 
