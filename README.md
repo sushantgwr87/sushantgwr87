@@ -5,6 +5,7 @@
 I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
 ➡️[Check My Website](https://sushantgangwar.netlify.app/)
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## ⚡ Technologies
@@ -29,6 +30,7 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50" style="vertical-align:top;"/>
 </p>
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## 📌Featured Projects
 
@@ -56,18 +58,21 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 Check my [Archive](https://github.com/sushantgwr87?tab=repositories) for more.
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## 🚀 My Github Stat's
 
 <p align="center">
-    <img align="center" margin="20px" src="https://readme-streak-stats.herokuapp.com/?user=sushantgwr87&theme=algolia" />
+    <img align="center" margin="20px" src="https://readme-streak-stats.herokuapp.com/?user=sushantgwr87&fire=00ff6a&theme=algolia" />
 </p>
 
 <p align="center">
-  <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&layout=compact&theme=algolia" />
+  <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&layout=compact&height=30&theme=algolia" />
   &nbsp; &nbsp; &nbsp; &nbsp; 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&theme=algolia" />
 </p>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&theme=react-dark)](https://github.com/sushantgwr87)
