@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/sushantgwr87/sushantgwr87/main/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
 
-# Hello there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="40" height="40" />
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
 
 I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
@@ -9,15 +9,15 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 ## ⚡ Technologies
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="HTML" width="40" height="40" style="vertical-align:top;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="CSS" width="40" height="40" style="vertical-align:top;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" style="vertical-align:top;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; &nbsp; &nbsp; 
