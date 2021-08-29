@@ -59,6 +59,10 @@ Check my [Archive](https://github.com/sushantgwr87?tab=repositories) for more.
 
 ## 🚀 My Github Stat's
 
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?user=sushantgwr87&hide_border=true&theme=nightowl" />
+</p>
+
 <p align="left">
   <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=algolia" />
   &nbsp; &nbsp; &nbsp; &nbsp; 
