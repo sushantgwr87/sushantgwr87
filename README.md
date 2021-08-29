@@ -57,7 +57,9 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 
 Check my [Archive](https://github.com/sushantgwr87?tab=repositories) for more.
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sushantgwr87)](https://github.com/sushantgwr87)
+<p align="center">
+    <img align="center" margin="20px" src="https://github-profile-trophy.vercel.app/?username=sushantgwr87&theme=algolia" />
+</p>
 
 ## 🚀 My Github Stat's
 
