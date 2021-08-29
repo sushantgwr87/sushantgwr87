@@ -9,21 +9,21 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 ## ⚡ Technologies
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="vertical-align:top;"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="vertical-align:top;"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="vertical-align:top;"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="vertical-align:top;"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="vertical-align:top;"/>
+    &nbsp; &nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="vertical-align:top;"/>
+    &nbsp; &nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="Javascript" width="40" height="40" style="vertical-align:top;"/>
+    &nbsp; &nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="vertical-align:top;"/>
+    &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40" style="vertical-align:top;"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="40" height="40" style="vertical-align:top;"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="vertical-align:top;"/>
-    &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40" style="vertical-align:top;"/>
+    &nbsp; &nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40" style="vertical-align:top;"/>
+    &nbsp; &nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="vertical-align:top;"/>
+    &nbsp; &nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Nodejs" width="40" height="40" style="vertical-align:top;"/>
 </p>
 
 
