@@ -60,7 +60,8 @@ Check my [Archive](https://github.com/sushantgwr87?tab=repositories) for more.
 ## 🚀 My Github Stat's
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.herokuapp.com/?user=sushantgwr87&hide_border=true&theme=nightowl" />
+    <img src="[![GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=sushantgwr87&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
+" />
 </p>
 
 <p align="left">
