@@ -79,7 +79,7 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 
 <p align="center">
   <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&layout=compact&height=30&theme=algolia" />
-  &nbsp; &nbsp; &nbsp; &nbsp; 
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&theme=algolia" />
 </p>
 
