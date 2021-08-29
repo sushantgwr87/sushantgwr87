@@ -1,8 +1,6 @@
-[![Header](https://raw.githubusercontent.com/sushantgwr87/sushantgwr87/main/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
-
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
 
-I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/) a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
+I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
 ### 👻 About Me
 - 🌱 Self learnt web developer.
