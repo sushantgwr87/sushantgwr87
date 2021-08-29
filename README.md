@@ -5,6 +5,7 @@
 I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
 ➡️[Check My Website](https://sushantgangwar.netlify.app/)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## ⚡ Technologies
 
@@ -29,7 +30,7 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 </p>
 
 
-## Some of my Projects
+## 📌Featured Projects
 
 - My Blog 📜🖋️ Inked Diary, made using <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React.js and database hosted on a Json server.
 
@@ -55,7 +56,7 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 Check my [Archive](https://github.com/sushantgwr87?tab=repositories) for more.
-
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## 🚀 My Github Stat's
 
