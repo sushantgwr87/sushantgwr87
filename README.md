@@ -9,7 +9,7 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 ## ⚡ Technologies
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="vertical-align:top;width:2px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="vertical-align:top;max-width: 2em;"/>
     &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="vertical-align:top;width:2px"/>
     &nbsp; &nbsp; 
