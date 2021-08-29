@@ -63,10 +63,10 @@ Check my [Archive](https://github.com/sushantgwr87?tab=repositories) for more.
     <img align="center" margin="20px" src="https://readme-streak-stats.herokuapp.com/?user=sushantgwr87&theme=algolia" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&theme=algolia" />
   &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=50&theme=algolia" />
 </p>
 
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&theme=react-dark)](https://github.com/sushantgwr87)
