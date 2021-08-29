@@ -9,11 +9,11 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
 ## ⚡ Technologies
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="vertical-align:top;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="vertical-align:top;width:80px"/>
     &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="vertical-align:top;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="vertical-align:top;"/>
     &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="Javascript" width="40" height="40" style="vertical-align:top;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; 
