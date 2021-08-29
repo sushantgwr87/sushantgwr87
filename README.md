@@ -21,7 +21,7 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongodb" height="40" style="vertical-align:top;">
     &nbsp; &nbsp; &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="vertical-align:top;"/>
     &nbsp; &nbsp; &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" height="40" style="vertical-align:top;">
 </p>
