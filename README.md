@@ -1,11 +1,26 @@
 [![Header](https://raw.githubusercontent.com/sushantgwr87/sushantgwr87/main/readme_header.png "Header")](https://sushantgangwar.netlify.app/)
 
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
 
-I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
+I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/) a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
-➡️[Check My Website](https://sushantgangwar.netlify.app/)
+### 👻 About Me
+- 🌱 Self learnt web developer.
+- 👨‍🎓 B.Tech final year student batch 2022 Galgotias University.
+- ❤️ Passionate about coding and designing.
+- ♟️ Loves to play Chess.
 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<p align="center">
+    <a href="https://sushantgangwar.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-57d60d?&style=for-the-badge" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:sushant.gangwar.business@gmail.com?subject=Sushant%20Gangwar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/sushantgwr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 ## ⚡ Technologies
@@ -39,7 +54,6 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
   <a href="https://github.com/sushantgwr87/Inked-Diary">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=algolia" />
   </a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 - A website to show 🕐Clock-Time in digital format with flip animation and a ⏲️Timer with dial animation.
 
@@ -47,17 +61,13 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=algolia" />
   </a>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-
 - My Portfolio😎
 
   <a href="https://github.com/sushantgwr87/portfolio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=portfolio&theme=algolia" />
   </a>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
-Check my [Archive](https://github.com/sushantgwr87?tab=repositories) for more.
+Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for more.
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
