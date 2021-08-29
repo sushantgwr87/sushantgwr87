@@ -25,7 +25,7 @@ I'm Sushant Gangwar a web developer 🧑‍💻 with experience of 3 years. I st
     &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="50" height="50" style="vertical-align:top;"/>
     &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Expressjs" width="50" height="50" style="vertical-align:top;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50" style="vertical-align:top;"/>
 </p>
 
 
