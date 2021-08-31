@@ -8,18 +8,18 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
 - ❤️ Passionate about coding and designing.
 - ♟️ Loves to play Chess.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; 
 <p align="center">
     <a href="https://sushantgangwar.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-57d60d?&style=for-the-badge" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp; &nbsp; 
     <a href="mailto:sushant.gangwar.business@gmail.com?subject=Sushant%20Gangwar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp; &nbsp; 
     <a href="https://twitter.com/sushantgwr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp; &nbsp; 
     <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp; &nbsp; 
 </p>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; 
 
 ## ⚡ Technologies
 
@@ -43,7 +43,7 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50" style="vertical-align:top;"/>
 </p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; 
 
 ## 📌Featured Projects
 
@@ -67,7 +67,7 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
 
 Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for more.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; 
 
 ## 🚀 My Github Stat's
 
@@ -82,6 +82,6 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&theme=algolia" />
 </p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; 
 
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&theme=react-dark)](https://github.com/sushantgwr87)
