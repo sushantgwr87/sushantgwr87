@@ -4,7 +4,7 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
 
 ### 👻 About Me
 - 🌱 Self learnt web developer.
-- 👨‍🎓 B.Tech final year student batch 2022 Galgotias University.
+- 👨‍🎓 B.Tech final year student batch 2022.
 - ❤️ Passionate about coding and designing.
 - ♟️ Loves to play Chess.
 
