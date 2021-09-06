@@ -72,7 +72,7 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 ## 🚀 My Github Stat's
 
 <p align="center">
-    <img align="center" margin="20px" src="https://readme-streak-stats.herokuapp.com/?user=sushantgwr87&fire=00ff6a&theme=algolia" />
+    <img align="center" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantgwr87&fire=00ff6a&theme=algolia" />
 </p>
 
 <p align="center">
