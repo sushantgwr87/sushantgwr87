@@ -84,4 +84,4 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 
 &nbsp; 
 
-[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&theme=react-dark)](https://github.com/sushantgwr87)
+[![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&include_all_commits=true&count_private=true&theme=react-dark)](https://github.com/sushantgwr87)
