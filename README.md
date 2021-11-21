@@ -12,12 +12,20 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
 <p align="center">
     <a href="https://sushantgangwar.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-57d60d?&style=for-the-badge" /></a>
     &nbsp; &nbsp; 
-    <a href="mailto:sushant.gangwar.business@gmail.com?subject=Sushant%20Gangwar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:sushant.gangwar.work@gmail.com?subject=Sushant%20Gangwar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
     &nbsp; &nbsp; 
     <a href="https://twitter.com/sushantgwr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     &nbsp; &nbsp; 
-    <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+&nbsp; 
+
+<p align="center">
+<!--     <img src="https://img.shields.io/github/followers/sushantgwr87?label=Repos&style=social" width="130" height="30" />
+    &nbsp; &nbsp;  -->
+    <img src="https://komarev.com/ghpvc/?username=sushantgwr87&style=flat-square" width="130" height="30" />
     &nbsp; &nbsp; 
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsushantgwr87&count_bg=%2306CDFF&title_bg=%232B2B2B&icon=microsoftsqlserver.svg&icon_color=%236F96F8&title=Hits&edge_flat=false" width="130" height="30"/></a>
 </p>
 &nbsp; 
 
@@ -85,3 +93,5 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 &nbsp; 
 
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&include_all_commits=true&count_private=true&theme=react-dark)](https://github.com/sushantgwr87)
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/sushantgwr87/count.svg) -->
