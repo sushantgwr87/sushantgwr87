@@ -18,7 +18,7 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
     &nbsp; &nbsp; 
     <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     &nbsp; &nbsp; 
-    <img src="https://visitor-badge.glitch.me/badge?page_id=sushantgwr87.sushantgwr87" width="100" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=sushantgwr87.sushantgwr87" width="110" />
 </p>
 &nbsp; 
 
