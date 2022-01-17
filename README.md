@@ -16,16 +16,9 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
     &nbsp; &nbsp; 
     <a href="https://twitter.com/sushantgwr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     &nbsp; &nbsp; 
-   <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-&nbsp; 
-
-<p align="center">
-<!--     <img src="https://img.shields.io/github/followers/sushantgwr87?label=Repos&style=social" width="130" height="30" />
-    &nbsp; &nbsp;  -->
-    <img src="https://komarev.com/ghpvc/?username=sushantgwr87&style=flat-square" width="130" height="30" />
+    <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     &nbsp; &nbsp; 
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsushantgwr87&count_bg=%2306CDFF&title_bg=%232B2B2B&icon=microsoftsqlserver.svg&icon_color=%236F96F8&title=Hits&edge_flat=false" width="130" height="30"/></a>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=sushantgwr87.sushantgwr87" width="100" />
 </p>
 &nbsp; 
 
