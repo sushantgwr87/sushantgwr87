@@ -18,7 +18,15 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
     &nbsp; &nbsp; 
     <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     &nbsp; &nbsp; 
-    <img src="https://visitor-badge.glitch.me/badge?page_id=sushantgwr87.sushantgwr87" width="110" />
+<!--     <img src="https://visitor-badge.glitch.me/badge?page_id=sushantgwr87.sushantgwr87" width="110" /> -->
+</p>
+&nbsp; 
+
+<!-- ![GitHub watchers](https://img.shields.io/github/watchers/sushantgwr87/sushantgwr87?style=social) -->
+<p align="center">
+    <img src="https://img.shields.io/github/followers/sushantgwr87?&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
+    &nbsp; 
+    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=sushantgwr87.sushantgwr87&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
 </p>
 &nbsp; 
 
@@ -73,6 +81,10 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 ## 🚀 My Github Stat's
 
 <!-- <p align="center">
+    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=sushantgwr87.sushantgwr87&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
+    &nbsp; 
+    <img src="https://img.shields.io/github/followers/sushantgwr87?&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
+    &nbsp; 
     <img src="https://profile-counter.glitch.me/sushantgwr87/count.svg" />
 </p> -->
 
