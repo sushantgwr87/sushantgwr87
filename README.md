@@ -56,10 +56,10 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
 
 ## 📌Featured Projects
 
-- My Blog 📜🖋️ Inked Diary, made using <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="25" height="25" /> React.js and database hosted on a Json server.
+- My Image Blog 📜🖋️ PhotoSnap, made using <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="25" height="25" /> Next.js, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Nextjs" width="25" height="25" />React.js and database hosted on <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Nextjs" width="25" height="25" />MongoDb. This project is upgrade and more smooth version of my old blog website [Inked Diary](https://github.com/sushantgwr87/Inked-Diary).
 
-  <a href="https://github.com/sushantgwr87/Inked-Diary">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Inked-Diary&theme=algolia" />
+  <a href="https://github.com/sushantgwr87/PhotoSnap">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=PhotoSnap&theme=algolia" />
   </a>
 
 - A website to show 🕐Clock-Time in digital format with flip animation and a ⏲️Timer with dial animation.
