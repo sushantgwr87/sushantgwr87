@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
 
-I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web developer 🧑‍💻 with experience of 3 years. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
+I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web developer 🧑‍💻. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
 
 ### 👻 About Me
 - 🌱 Self learnt web developer.
@@ -18,11 +18,9 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
     &nbsp; &nbsp; 
     <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     &nbsp; &nbsp; 
-<!--     <img src="https://visitor-badge.glitch.me/badge?page_id=sushantgwr87.sushantgwr87" width="110" /> -->
 </p>
 &nbsp; 
 
-<!-- ![GitHub watchers](https://img.shields.io/github/watchers/sushantgwr87/sushantgwr87?style=social) -->
 <p align="center">
     <img src="https://img.shields.io/github/followers/sushantgwr87?&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
     &nbsp; 
@@ -49,7 +47,7 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
     &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="50" height="50"/>
     &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
     &nbsp; &nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
 </p>
@@ -81,14 +79,6 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 &nbsp; 
 
 ## 🚀 My Github Stat's
-
-<!-- <p align="center">
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=sushantgwr87.sushantgwr87&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
-    &nbsp; 
-    <img src="https://img.shields.io/github/followers/sushantgwr87?&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
-    &nbsp; 
-    <img src="https://profile-counter.glitch.me/sushantgwr87/count.svg" />
-</p> -->
 
 <p align="center">
     <img align="center" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantgwr87&include_all_commits=true&count_private=true&fire=00ff6a&theme=algolia" />
