@@ -91,6 +91,10 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&theme=algolia" />
 </p>
 
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sushantgwr87&theme=algolia&margin-w=15&rank=-Unknown)" />
+</p>
+
 &nbsp; 
 
 [![Sushant's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushantgwr87&include_all_commits=true&count_private=true&theme=react-dark)](https://github.com/sushantgwr87)
