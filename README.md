@@ -92,7 +92,7 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sushantgwr87&theme=algolia&margin-w=15&rank=-Unknown)" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sushantgwr87&theme=algolia&margin-w=15)" />
 </p>
 
 &nbsp; 
