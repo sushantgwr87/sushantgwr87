@@ -4,7 +4,7 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
 
 ### 👻 About Me
 - 🌱 Self learnt web developer.
-- 👨‍🎓 B.Tech final year student batch 2022.
+- 👨‍🎓 B.Tech Graduate, 2022.
 - ❤️ Passionate about coding and designing.
 - ♟️ Loves to play Chess.
 
@@ -19,14 +19,12 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
     <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     &nbsp; &nbsp; 
 </p>
-&nbsp; 
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://img.shields.io/github/followers/sushantgwr87?&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
     &nbsp; 
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=sushantgwr87.sushantgwr87&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
-</p>
-&nbsp; 
+    <img src="https://shields-io-visitor-counter.herokuapp.com/badge page=sushantgwr87.sushantgwr87&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
+</p> --> 
 
 ## ⚡ Technologies
 
