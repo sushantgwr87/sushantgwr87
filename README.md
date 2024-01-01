@@ -57,19 +57,19 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
 - My Image Blog 📜🖋️ PhotoSnap, made using <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="25" height="25" /> Next.js, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Nextjs" width="25" height="25" />React.js and database hosted on <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Nextjs" width="25" height="25" />MongoDb. This project is upgrade and more smooth version of my old blog website [Inked Diary](https://github.com/sushantgwr87/Inked-Diary).
 
   <a href="https://github.com/sushantgwr87/PhotoSnap">
-    <img align="center" src="https://github-readme-stats-sg.vercel.app/api/pin/?username=sushantgwr87&repo=PhotoSnap&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=PhotoSnap&theme=algolia" />
   </a>
 
 - A website to show 🕐Clock-Time in digital format with flip animation and a ⏲️Timer with dial animation.
 
   <a href="https://github.com/sushantgwr87/Clock-Timer">
-    <img align="center" src="https://github-readme-stats-sg.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Clock-Timer&theme=algolia" />
   </a>
 
 - This is an Ecommerce Product Website which is made using MERN Stack. It also has Cart system for product list.
 
   <a href="https://github.com/sushantgwr87/Audiophile">
-    <img align="center" src="https://github-readme-stats-sg.vercel.app/api/pin/?username=sushantgwr87&repo=Audiophile&theme=algolia" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sushantgwr87&repo=Audiophile&theme=algolia" />
   </a>
 
 Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for more.
@@ -79,14 +79,14 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 ## 🚀 My Github Stat's
 
 <p align="center">
-    <img align="center" margin="20px" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantgwr87&include_all_commits=true&count_private=true&fire=00ff6a&theme=algolia" />
+    <img align="center" margin="20px" src="https://github-readme-streak-stats.herokuapp.com?user=sushantgwr87&theme=algolia" />
 </p>
 
 <p align="center">
-    <img align="center" margin="20px" src="https://github-readme-stats-sg.vercel.app/api/top-langs/?username=sushantgwr87&layout=compact&height=30&theme=algolia" />
+    <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&layout=compact&height=30&theme=algolia" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sg.vercel.app/api?username=sushantgwr87&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&theme=algolia" />
 </p>
 
 <p align="center">
@@ -95,4 +95,4 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 
 &nbsp; 
 
-[![Sushant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sushantgwr87&include_all_commits=true&count_private=true&theme=react-dark)](https://github.com/sushantgwr87)
+[![Sushant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sushantgwr87&include_all_commits=true&count_private=true&theme=react-dark)](https://github.com/sushantgwr87)
