@@ -10,9 +10,9 @@ I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web devel
 
 &nbsp; 
 <p align="center">
-    <a href="https://sushantgangwar.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-57d60d?&style=for-the-badge" /></a>
+    <a href="https://sushantgwr.com"><img src="https://img.shields.io/badge/PORTFOLIO-57d60d?&style=for-the-badge" /></a>
     &nbsp; &nbsp; 
-    <a href="mailto:sushant.gangwar.work@gmail.com?subject=Sushant%20Gangwar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:contactme@sushantgwr.com?subject=Sushant%20Gangwar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
     &nbsp; &nbsp; 
     <a href="https://twitter.com/sushantgwr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     &nbsp; &nbsp; 
