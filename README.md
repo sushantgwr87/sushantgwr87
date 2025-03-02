@@ -2,7 +2,7 @@
 
 A Digital Craftsman, I specialize in TypeScript, ReactJS, and NextJS, building seamless, high-performance web applications with clean, scalable code. Problem-solving drives me—whether in coding, strategy games, or chess, I thrive on crafting smart, efficient solutions.
 
-<img align="right" width=430px alt="souls" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmF0YWx3NHVoM3VpZngzdXZ5OHp2dmFpa3gyOGh5cHk1MHlmN2JhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JKCSoloVTGjmWQ/giphy.gif"/>
+<img align="right" width="300px" alt="souls" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmF0YWx3NHVoM3VpZngzdXZ5OHp2dmFpa3gyOGh5cHk1MHlmN2JhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JKCSoloVTGjmWQ/giphy.gif"/>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width ="20">&nbsp; About Me
 - 🌱 Self learnt Web Developer with 3+ years experience.
