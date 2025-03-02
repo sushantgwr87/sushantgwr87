@@ -1,54 +1,58 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
+# Hi there, I'm Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" />
 
-I'm [Sushant Gangwar](https://www.linkedin.com/in/sushant-gangwar/), a web developer 🧑‍💻. I started with designing simple dribble animations but with time I learnt better architecture and UI skills to develop scalable, reliable and better digital products.
+A Digital Craftsman, I specialize in TypeScript, ReactJS, and NextJS, building seamless, high-performance web applications with clean, scalable code. Problem-solving drives me—whether in coding, strategy games, or chess, I thrive on crafting smart, efficient solutions.
 
 ### 👻 About Me
-- 🌱 Self learnt web developer.
+- 🌱 Self learnt Web Developer with 3+ years experience.
 - 👨‍🎓 B.Tech Graduate, 2022.
 - ❤️ Passionate about coding and designing.
-- ♟️ Loves to play Chess.
+- ♟️ Loves to play games and Chess.
 
 &nbsp; 
-<p align="center">
-    <a href="https://sushantgwr.com"><img src="https://img.shields.io/badge/PORTFOLIO-57d60d?&style=for-the-badge" /></a>
-    &nbsp; &nbsp; 
-    <a href="mailto:contactme@sushantgwr.com?subject=Sushant%20Gangwar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    &nbsp; &nbsp; 
-    <a href="https://twitter.com/sushantgwr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    &nbsp; &nbsp; 
-    <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    &nbsp; &nbsp; 
-</p>
-
-<!-- <p align="center">
-    <img src="https://img.shields.io/github/followers/sushantgwr87?&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
-    &nbsp; 
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge page=sushantgwr87.sushantgwr87&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=183BD6&style=for-the-badge" width="180" />
-</p> --> 
-
-## ⚡ Technologies
-
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+    <a href="https://sushantgwr.com"><img src="https://img.shields.io/badge/portfolio-00c75d?&style=for-the-badge" /></a>
     &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+    <a href="mailto:contactme@sushantgwr.com?subject=Sushant%20Gangwar"><img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
     &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/>
+    <a href="https://twitter.com/sushantgwr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
     &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+    <a href="https://www.linkedin.com/in/sushant-gangwar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge"/></a>
     &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/>
-    &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb" width="50" height="50"/>
-    &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-    &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="50" height="50"/>
-    &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-    &nbsp; &nbsp; 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
 </p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="20">&nbsp; Skills
+
+###### Languages & Syntax:
+![JavaScript](https://img.shields.io/badge/javascript-ffd733?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd733)&nbsp;
+
+###### Frontend Development:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/nextJS-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-ffd733?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-005dff?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+
+###### Backend & Frameworks:
+![Django](https://img.shields.io/badge/django-f7ff00.svg?style=for-the-badge&logo=django&logoColor=000000)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+
+###### Deployment & Cloud Services:
+![Supabase](https://img.shields.io/badge/supabase-white.svg?style=for-the-badge&logo=supabase&logoColor=green)&nbsp;
+
+###### Database Management:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+###### Development Tools:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
+###### Development Environments:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 &nbsp; 
 
