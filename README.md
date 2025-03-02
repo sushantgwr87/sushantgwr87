@@ -2,7 +2,9 @@
 
 A Digital Craftsman, I specialize in TypeScript, ReactJS, and NextJS, building seamless, high-performance web applications with clean, scalable code. Problem-solving drives me—whether in coding, strategy games, or chess, I thrive on crafting smart, efficient solutions.
 
-### 👻 About Me
+<img align="right" width=430px alt="souls" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmF0YWx3NHVoM3VpZngzdXZ5OHp2dmFpa3gyOGh5cHk1MHlmN2JhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JKCSoloVTGjmWQ/giphy.gif"/>
+
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width ="20">&nbsp; About Me
 - 🌱 Self learnt Web Developer with 3+ years experience.
 - 👨‍🎓 B.Tech Graduate, 2022.
 - ❤️ Passionate about coding and designing.
@@ -37,6 +39,8 @@ A Digital Craftsman, I specialize in TypeScript, ReactJS, and NextJS, building s
 ###### Backend & Frameworks:
 ![Django](https://img.shields.io/badge/django-f7ff00.svg?style=for-the-badge&logo=django&logoColor=000000)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+
+<img align="right" width=310px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdhcGoxcGU0bngyM3poa3pzN3lleWRqN2ZiYWJmMWc0bDVreHozaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yJFeycRK2DB4c/giphy.gif"/>
 
 ###### Deployment & Cloud Services:
 ![Supabase](https://img.shields.io/badge/supabase-white.svg?style=for-the-badge&logo=supabase&logoColor=green)&nbsp;
@@ -80,22 +84,21 @@ Check my 📂[Archive](https://github.com/sushantgwr87?tab=repositories) for mor
 
 &nbsp; 
 
-## 🚀 My Github Stat's
+## 🚀 Github Stat's
 
-<p align="center">
-    <img align="center" margin="20px" src="https://github-readme-streak-stats.herokuapp.com?user=sushantgwr87&theme=algolia" />
-</p>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sushantgwr87&theme=algolia&margin-w=15)" />
 
-<p align="center">
-    <img align="center" margin="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&layout=compact&height=30&theme=algolia" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&theme=algolia" />
-</p>
-
-<p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sushantgwr87&theme=algolia&margin-w=15)" />
-</p>
+<table align="center" border="0" width="100%">
+<tr>
+<td width="50%" align="center">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantgwr87&theme=algolia&hide_border=false" alt=sushantgwr87 streak" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sushantgwr87&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&theme=algolia" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgwr87&layout=compact&height=30&theme=algolia"/>
+</td>
+</tr>
+</table>
 
 &nbsp; 
 
