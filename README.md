@@ -25,6 +25,7 @@ A Digital Craftsman, I specialize in TypeScript, ReactJS, and NextJS, building s
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" height="20">&nbsp; Skills
 
 ###### Languages & Syntax:
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-ffd733?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd733)&nbsp;
 
@@ -35,6 +36,7 @@ A Digital Craftsman, I specialize in TypeScript, ReactJS, and NextJS, building s
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-ffd733?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-005dff?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 
 ###### Backend & Frameworks:
 ![Django](https://img.shields.io/badge/django-f7ff00.svg?style=for-the-badge&logo=django&logoColor=000000)&nbsp;
