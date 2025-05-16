@@ -46,6 +46,7 @@ A Digital Craftsman, I specialize in TypeScript, ReactJS, and NextJS, building s
 
 ###### Deployment & Cloud Services:
 ![Supabase](https://img.shields.io/badge/supabase-white.svg?style=for-the-badge&logo=supabase&logoColor=green)&nbsp;
+![Vercel](https://img.shields.io/badge/vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 
 ###### Database Management:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
